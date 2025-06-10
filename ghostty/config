@@ -46,4 +46,4 @@ font-feature = -liga
 font-feature = -dlig
 font-size = 12
 keybind = ctrl+i=increase_font_size:1
-keybind = ctrl+u=decrease_font_size:1
+#keybind = ctrl+u=decrease_font_size:1
